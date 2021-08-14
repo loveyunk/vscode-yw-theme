@@ -1,0 +1,21 @@
+{
+  "name": "yw-theme",
+  "displayName": "vscode-yw-theme",
+  "description": "vscode yw theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yw Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yw Theme-color-theme.json"
+      }
+    ]
+  }
+}
