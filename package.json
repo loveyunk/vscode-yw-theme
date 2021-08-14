@@ -1,8 +1,9 @@
 {
   "name": "yw-theme",
-  "displayName": "vscode-yw-theme",
-  "description": "vscode yw theme",
-  "version": "0.0.1",
+  "displayName": "Yw Theme",
+  "description": "",
+  "publisher": "loveyunk",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.59.0"
   },
@@ -14,8 +15,23 @@
       {
         "label": "Yw Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Yw Theme-color-theme.json"
+        "path": "./themes/YwTheme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loveyunk/vscode-yw-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/loveyunk/vscode-yw-theme/issues"
+  },
+  "homepage": "https://github.com/loveyunk/vscode-yw-theme/blob/main/README.md",
+  "keywords": [
+    "Vscode",
+    "Theme",
+    "Yw"
+  ],
+  "author": "",
+  "license": "MIT"
 }
