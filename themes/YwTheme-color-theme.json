@@ -333,7 +333,7 @@
         "variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#3CEC85"
+        "foreground": "#05ad97"
       }
     },
     {
@@ -344,7 +344,7 @@
         "string.quoted.double.block.python"
       ],
       "settings": {
-        "foreground": "#3CEC8560"
+        "foreground": "#05ad9760"
       }
     },
     {
@@ -380,13 +380,13 @@
         "entity.name.variable.tuple-element.cs punctuation.separator.colon.cs"
       ],
       "settings": {
-        "foreground": "#FF738A"
+        "foreground": "#ff7edb"
       }
     },
     {
       "scope": ["source.elm constant.type-constructor"],
       "settings": {
-        "foreground": "#FF738A"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -411,7 +411,7 @@
     {
       "scope": ["support.variable.liquid", "support.class.liquid"],
       "settings": {
-        "foreground": "#FF738A"
+        "foreground": "#ff7edb"
       }
     },
     {
